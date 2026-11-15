@@ -19,3 +19,17 @@
 - Deteksi pemenang pada baris, kolom, dan diagonal.
 - Deteksi hasil seri.
 - Tombol Mulai Ulang.
+
+### Tampilan Web di Laptop
+<img width="797" height="392" alt="image" src="https://github.com/user-attachments/assets/23f7818a-76c0-4c61-acb2-1b52041082cf" />
+
+### Tampilan Web di HP
+<img width="319" height="691" alt="image" src="https://github.com/user-attachments/assets/43118096-fdec-46e7-ac7d-06d57294c4a8" />
+
+### Teknologi
+- React Native
+- Expo
+- TypeScript
+
+
+Dibuat oleh: Yuanitha Nasya Arthanti
